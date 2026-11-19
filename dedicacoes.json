@@ -1,0 +1,20 @@
+{
+ "dedicacoes": [
+  {
+   "tipo": "leiluiNishmat",
+   "nome": "יוסף בן שרה",
+   "inicio": null,
+   "fim": null,
+   "escopo": "app",
+   "alvo": null
+  },
+  {
+   "tipo": "refua",
+   "nome": "חיים בן רבקה",
+   "inicio": "2026-11-19",
+   "fim": null,
+   "escopo": "app",
+   "alvo": null
+  }
+ ]
+}

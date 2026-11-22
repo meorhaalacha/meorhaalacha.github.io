@@ -388,6 +388,8 @@
    "audioSecao": "ÁUDIO",
    "audioMostrarFone": "Mostrar o botão de ouvir (🎧)",
    "audioMostrarFoneNota": "As gravações são em português.",
+   "audioSequencia": "Tocar o seif seguinte",
+   "audioSequenciaNota": "Ao terminar uma gravação, toca a seguinte do siman, e a tela acompanha.",
    "audioEspacoUsado": "Espaço usado",
    "contaGravacoes": {
     "args": [
@@ -796,6 +798,8 @@
    "audioSecao": "AUDIO",
    "audioMostrarFone": "Show the listen button (🎧)",
    "audioMostrarFoneNota": "The recordings are in Portuguese.",
+   "audioSequencia": "Play the next seif",
+   "audioSequenciaNota": "When a recording ends, the next one in the siman plays, and the screen follows along.",
    "audioEspacoUsado": "Space used",
    "contaGravacoes": {
     "args": [
@@ -1204,6 +1208,8 @@
    "audioSecao": "AUDIO",
    "audioMostrarFone": "Mostrar el botón de escuchar (🎧)",
    "audioMostrarFoneNota": "Las grabaciones están en portugués.",
+   "audioSequencia": "Reproducir el seif siguiente",
+   "audioSequenciaNota": "Al terminar una grabación, se reproduce la siguiente del siman, y la pantalla la acompaña.",
    "audioEspacoUsado": "Espacio usado",
    "contaGravacoes": {
     "args": [
@@ -1612,6 +1618,8 @@
    "audioSecao": "שמע",
    "audioMostrarFone": "הצגת כפתור ההאזנה (🎧)",
    "audioMostrarFoneNota": "ההקלטות הן בפורטוגזית.",
+   "audioSequencia": "ניגון הסעיף הבא",
+   "audioSequenciaNota": "בסיום הקלטה מתנגנת ההקלטה הבאה בסימן, והמסך עובר איתה.",
    "audioEspacoUsado": "נפח בשימוש",
    "contaGravacoes": {
     "args": [

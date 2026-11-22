@@ -1,8 +1,8 @@
 {
  "dedicacoes": [
   {
-   "tipo": "leiluiNishmat",
-   "nome": "יוסף בן שרה",
+   "tipo": "hatzlacha",
+   "nome": "הרב אדמון קצב הי''ו",
    "inicio": null,
    "fim": null,
    "escopo": "app",
@@ -10,11 +10,19 @@
   },
   {
    "tipo": "refua",
-   "nome": "חיים בן רבקה",
-   "inicio": "2026-11-19",
+   "nome": "אברהם בן יצחק בתוך שאר חולי עמו ישראל",
+   "inicio": null,
    "fim": null,
-   "escopo": "app",
-   "alvo": null
+   "escopo": "tema",
+   "alvo": "שבת"
+  },
+  {
+   "tipo": "leiluiNishmat",
+   "nome": "יעקב בן אברהם ז''ל רחל בת רבקה ז''ל תנצב''ה",
+   "inicio": null,
+   "fim": null,
+   "escopo": "siman",
+   "alvo": 689
   }
  ]
 }

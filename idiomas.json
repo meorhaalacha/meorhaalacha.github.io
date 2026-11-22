@@ -1,0 +1,1637 @@
+{
+ "formato": 1,
+ "idiomas": {
+  "pt": {
+   "voltar": "voltar",
+   "ajustes": "Ajustes",
+   "favoritos": "Favoritos",
+   "favoritoGuardar": "guardar nos favoritos",
+   "favoritoTirar": "tirar dos favoritos",
+   "favoritosVaziosTitulo": "Seus lugares de estudo ficam aqui",
+   "favoritosVazios": "Quando quiser voltar a um seif, a um siman ou a uma seção do anexo, toque na estrela no alto da página de leitura. Ele aparece nesta lista, na ordem do livro, pronto para você abrir.",
+   "favoritoTirarPergunta": "Tirar dos favoritos?",
+   "favoritoTirarDetalhe": "O texto não muda; só sai desta lista.",
+   "favoritoTirarSim": "Tirar",
+   "anotacaoEscrever": "escrever anotação",
+   "anotacaoAbrir": "abrir anotação",
+   "anotacaoDica": "Escreva aqui a sua anotação…",
+   "anotacaoGuardar": "Guardar",
+   "anotacaoApagar": "apagar",
+   "anotacaoEnviar": "enviar",
+   "anotacaoFecharPergunta": "Guardar a anotação?",
+   "anotacaoFecharDetalhe": "Você mudou o texto e ainda não guardou.",
+   "anotacaoContinuar": "Continuar escrevendo",
+   "anotacaoDescartar": "Descartar",
+   "anotacaoApagarPergunta": "Apagar esta anotação?",
+   "anotacaoApagarDetalhe": "O que você escreveu será apagado. O texto original não muda.",
+   "anotacaoApagarSim": "Apagar",
+   "anotacoesEnviarTodas": "enviar todas",
+   "secaoLugares": "LUGARES GUARDADOS",
+   "secaoAnotacoes": "ANOTAÇÕES",
+   "secaoGrifos": "GRIFOS",
+   "grifar": "grifar",
+   "grifado": "grifado",
+   "grifoTrechoMaior": "para grifar, selecione um trecho maior",
+   "grifoTrocarCor": "trocar a cor",
+   "grifoTirar": "tirar o grifo",
+   "grifoTirarPergunta": "Tirar este grifo?",
+   "grifoTirarDetalhe": "O texto não muda; só perde a cor.",
+   "grifoAvisoTitulo": "Grifar um trecho",
+   "grifoAvisoTexto": "Segure o dedo no texto, ajuste a seleção e toque em Copiar. No pé da tela aparecem as cores: toque numa e o trecho fica grifado. Para trocar a cor ou tirar, toque no grifo.",
+   "grifoAvisoEntendi": "entendi",
+   "grifoAvisoNaoMostrar": "não mostrar mais",
+   "grifoCores.amarelo": "amarelo",
+   "grifoCores.verde": "verde",
+   "grifoCores.azul": "azul",
+   "grifoCores.rosa": "rosa",
+   "abrindoOBanco": "Abrindo o texto…",
+   "erroAoAbrirOBanco": "Não consegui abrir o texto do app",
+   "erroCopie": "Toque em enviar por e-mail, ou copie a mensagem e envie para meorhaalacha@gmail.com.",
+   "falhaTitulo": "Algo deu errado nesta tela",
+   "falhaFrase": "Nada foi perdido: seus favoritos, anotações e grifos continuam guardados.",
+   "voltarAoInicio": "Voltar ao início",
+   "tentarDeNovo": "Tentar de novo",
+   "enviarPorEmail": "enviar por e-mail",
+   "emailSemApp": "Não encontrei um aplicativo de e-mail neste celular. Toque em copiar e cole a mensagem onde preferir.",
+   "continuar": "continuar",
+   "simanInteiro": "siman inteiro",
+   "noAnexo": "no anexo",
+   "numeroDoSeif": {
+    "args": [
+     "n"
+    ],
+    "texto": "seif {n}"
+   },
+   "citacaoNumero": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "citação {k} de {n}"
+   },
+   "temas": "TEMAS",
+   "rotuloCampoSiman": "SIMAN",
+   "rotuloCampoBusca": "BUSCAR",
+   "irAoSimanExemplo": "‎128 · קכח",
+   "simanNaoAchado": "não achei. O campo aceita só o número do siman (1 a 697) ou as letras dele — não procura palavras.",
+   "seifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "não há seif {seif} no siman {siman}. Toque acima para abrir o siman."
+   },
+   "linkSeifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "O link pede o seif {seif} do siman {siman}, que não existe. Abri o siman inteiro."
+   },
+   "linkLugarQueNaoHa": "O link pede um lugar que não existe no Mishna Berura.",
+   "buscarExemplo": "palavra ou trecho",
+   "buscarNesteTema": "buscar neste tema",
+   "ultimasBuscas": "ÚLTIMAS BUSCAS",
+   "limparBuscas": "limpar",
+   "soNoTema": "só no tema",
+   "buscarNoLivroTodo": "buscar no livro todo",
+   "nadaNoTema": "não achei este trecho neste tema.",
+   "acaoBuscar": "buscar",
+   "acaoLupa": "buscar neste seif",
+   "buscarNesteSeif": "buscar aqui",
+   "nadaNesteSeif": "não achei este trecho neste seif.",
+   "nadaNoSaDesteSiman": "não achei no Shulchan Aruch deste siman.",
+   "nadaNoKuntres": "não achei este trecho em nenhuma seção.",
+   "emSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "em {n} seção",
+    "outro": "em {n} seções"
+   },
+   "noSimanTodo": "no siman",
+   "achadoAnterior": "achado anterior",
+   "irAoPrimeiro": "ir ao primeiro achado deste texto",
+   "contaAchados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} achado",
+    "outro": "{n} achados"
+   },
+   "proximoAchado": "próximo achado",
+   "rotuloBusca": "BUSCA",
+   "contaResultados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} resultado",
+    "outro": "{n} resultados"
+   },
+   "buscando": "procurando…",
+   "termoCurto": "escreva pelo menos duas letras.",
+   "nenhumResultado": "não achei este trecho em lugar nenhum da obra.",
+   "filtroTudo": "tudo",
+   "filtroNomes": "nomes",
+   "filtroAnexo": "anexo",
+   "filtroPalavraInteira": "palavra inteira",
+   "nadaComPalavraInteira": "Com \"palavra inteira\" ligado não sobrou nenhum resultado. Desligue o botão acima para procurar o trecho também dentro de outras palavras.",
+   "filtroEmSequencia": "em sequência",
+   "nadaEmSequencia": "Com \"em sequência\" ligado não sobrou nenhum resultado. Desligue o botão acima para procurar as palavras separadas, em qualquer lugar do mesmo texto.",
+   "nomesDeSimanim": "NOMES DE SIMANIM",
+   "nosAnexos": "NOS ANEXOS",
+   "mostrarMais": "mostrar mais",
+   "buscaNota": "A busca acha o trecho exato, em qualquer lugar de uma palavra — procurar שבת acha também בשבת. Duas ou três palavras são achadas separadas, em qualquer ordem, desde que estejam no mesmo texto (o mesmo seif, seif katan, nota ou trecho); para a frase colada, ligue \"em sequência\". Para só a palavra toda, ligue \"palavra inteira\". As aspas hebraicas valem como as comuns, e o nikud não atrapalha.",
+   "rotuloTema": "TEMA",
+   "contaSimanim": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} siman",
+    "outro": "{n} simanim"
+   },
+   "contaSeifim": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} seif",
+    "outro": "{n} seifim"
+   },
+   "numeroDoSiman": {
+    "args": [
+     "n"
+    ],
+    "texto": "siman {n}"
+   },
+   "doTomo": {
+    "args": [
+     "n"
+    ],
+    "texto": "tomo {n}"
+   },
+   "tomos": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "tomos {a} e {b}"
+   },
+   "marcaTomo": {
+    "args": [
+     "tomo",
+     "siman"
+    ],
+    "texto": "TOMO {tomo} — a partir do siman {siman}"
+   },
+   "simanAnterior": "siman anterior",
+   "proximoSiman": "próximo siman",
+   "seifAnterior": "seif anterior",
+   "proximoSeif": "próximo seif",
+   "fechar": "fechar",
+   "verCompleto": "VER COMPLETO",
+   "foraDosLinks": "Há texto aqui que só aparece em VER COMPLETO",
+   "copiar": "copiar",
+   "copiado": "copiado",
+   "compartilhar": "compartilhar",
+   "avisarErro": "avisar erro",
+   "copiaEnsina": "Copiado. Toque em compartilhar para enviar a alguém, ou em avisar erro se viu um erro no texto.",
+   "erroConvite": "Descreva aqui o erro que você viu:",
+   "erroSemEmail": "Não encontrei um aplicativo de e-mail neste celular. Escreva para meorhaalacha@gmail.com.",
+   "referenciaAcrescentada": "referência acrescentada",
+   "assinaturaAcrescentada": "assinatura acrescentada",
+   "marcadoresRetirados": "marcadores retirados",
+   "rotuloAnexo": "ANEXO",
+   "anexoDoMb": "anexo do Mishna Berura",
+   "anexoDoBh": "anexo do Biur Halacha",
+   "contaSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} seção",
+    "outro": "{n} seções"
+   },
+   "secaoAnterior": "seção anterior",
+   "proximaSecao": "próxima seção",
+   "abrirAnexo": "ANEXO",
+   "aparencia": "APARÊNCIA",
+   "paletas.pergaminho.nome": "Pergaminho",
+   "paletas.pergaminho.descricao": "creme e marrom, como papel de livro",
+   "paletas.papelBranco.nome": "Papel branco",
+   "paletas.papelBranco.descricao": "branco e cinza, limpo e neutro",
+   "paletas.noturno.nome": "Noturno",
+   "paletas.noturno.descricao": "fundo escuro, para estudar de noite",
+   "paletas.sepiaForte.nome": "Sépia forte",
+   "paletas.sepiaForte.descricao": "mais contraste e letra mais quente",
+   "paletas.vivo.nome": "Vivo",
+   "paletas.vivo.descricao": "cores fortes, para quem gosta de cor",
+   "letraDoTexto": "LETRA DO TEXTO",
+   "fontes.sistema.nome": "A do celular",
+   "fontes.frankRuhl.descricao": "a letra clássica de livro hebraico",
+   "fontes.david.descricao": "mais aberta, boa para vista cansada",
+   "fontes.heebo.descricao": "sem decorações, feita para tela",
+   "escritaRashi": "LETRA DE RASHI",
+   "rashiOpcoes.nenhum": "Não usar",
+   "rashiOpcoes.tudoMenosSa": "Nos comentários",
+   "rashiNota": "A letra de rashi entra só nos comentários. O Shulchan Aruch fica sempre na letra comum, como no livro impresso. Ao copiar, o texto sai sempre na letra comum.",
+   "telaInicial": "CONTINUAR DE ONDE PAREI",
+   "mostrarContinuar": "Mostrar na primeira tela",
+   "mostrarContinuarNota": "O cartão do último lugar que você leu e os dois lugares anteriores, no alto da primeira tela.",
+   "leituraSecao": "LEITURA",
+   "telaAcesa": "Manter a tela acesa",
+   "telaAcesaNota": "Enquanto você lê um seif ou um anexo. Se ninguém tocar na tela por 10 minutos, ela apaga como de costume.",
+   "idiomaDoApp": "IDIOMA",
+   "idiomaNota": "O texto original continua em hebraico em qualquer idioma. O que muda são os menus e os botões.",
+   "citacao": "CÓPIA",
+   "citacaoNota": "Vale para o botão copiar e também para o trecho que você seleciona com o dedo. Quando o app acrescenta a referência a um trecho selecionado, ele avisa na tela. Se o app não tiver certeza de onde o trecho veio, não mexe nele.",
+   "citacaoReferencia": "Referência da fonte",
+   "citacaoReferenciaNota": "A linha com o siman e o seif, acima do texto.",
+   "citacaoMarcadores": "Marcadores dentro do texto",
+   "citacaoMarcadoresNota": "As letras hebraicas entre parênteses e colchetes e o asterisco, que remetem aos comentários. Fazem parte do texto original; desligar aqui muda só o texto copiado.",
+   "citacaoAssinatura": "Nome do app no fim",
+   "citacaoAssinaturaNota": "Quem receber o trecho sabe de onde ele veio.",
+   "recomecar": "RECOMEÇAR",
+   "voltarAoOriginal": "Voltar às configurações originais",
+   "voltarAoOriginalNota": "Cores, idioma, letra (tipo e tamanho), letra de rashi, as três opções de cópia e as de áudio voltam como vieram de fábrica.",
+   "voltarAoOriginalPergunta": "Voltar tudo ao original?",
+   "voltarAoOriginalDetalhe": "O ponto onde você parou em cada áudio volta ao começo. O lugar onde você parou de ler, os seus favoritos e as suas anotações não se perdem. Nada do texto original muda.",
+   "cancelar": "Cancelar",
+   "voltarAoOriginalSim": "Voltar ao original",
+   "sobreOApp": "SOBRE",
+   "aberturaSobre": "Sobre esta edição",
+   "politicaDePrivacidade": "Política de privacidade",
+   "abreNoNavegador": "abre no navegador",
+   "versaoDaBase": "versão do texto",
+   "geradoEm": "gerado em",
+   "versaoDoApp": "versão do app",
+   "novidadesTitulo": "O que há de novo",
+   "novidadesEntendi": "Entendi",
+   "novidadesAbrir": "o que há de novo",
+   "novidadesVersao": "versão",
+   "novIrAoSeif": "Ir direto a um seif: no campo do siman, escreva o siman e o seif",
+   "novCopiar": "Depois do botão copiar: compartilhar, ou avisar erro no texto",
+   "novTema": "Buscar só dentro de um tema, na página do tema",
+   "novUltimos": "Na primeira tela, os últimos lugares lidos; ao tocar na busca, as últimas buscas",
+   "novAnotarCaixas": "O lápis das anotações também em cada caixa",
+   "novBackup": "Guardar e restaurar as anotações, os favoritos e os grifos (Ajustes, BACKUP)",
+   "novTelaAcesa": "A tela não apaga enquanto você lê (Ajustes, LEITURA)",
+   "novLink": "O texto copiado leva um link: quem o toca abre o app direto naquele seif",
+   "backupSecao": "BACKUP",
+   "backupGuardar": "Guardar um backup",
+   "backupGuardarNota": "Favoritos, anotações e grifos num arquivo. Mande para você mesmo (WhatsApp, e-mail, Drive) para não perder nada ao trocar de celular.",
+   "backupGuardarTitulo": "Guardar o backup",
+   "backupRestaurar": "Restaurar um backup",
+   "backupRestaurarNota": "Escolher o arquivo de um backup guardado antes.",
+   "backupNadaParaGuardar": "Ainda não há favoritos, anotações nem grifos para guardar.",
+   "backupFalhou": "Não foi possível criar o arquivo do backup.",
+   "backupLerEstragado": "Não foi possível ler este arquivo.",
+   "backupLerOutro": "Este arquivo não é um backup deste app.",
+   "backupLerNovo": "Este backup foi feito por uma versão mais nova do app. Atualize o app pela Play Store e tente de novo.",
+   "backupLerVazio": "Este backup está vazio.",
+   "backupComoTitulo": "Restaurar o backup",
+   "backupComoTexto": "O celular já tem favoritos, anotações ou grifos.",
+   "backupSomar": "Somar",
+   "backupSomarNota": "Junta o backup ao que já está no celular, sem repetir nada.",
+   "backupSubstituir": "Substituir",
+   "backupSubstituirNota": "Fica só o que está no backup. Serão apagados do celular:",
+   "backupRestaurado": "Backup restaurado",
+   "backupAgoraTem": "Agora o celular tem:",
+   "backupDescartados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} item do arquivo não foi entendido e ficou de fora.",
+    "outro": "{n} itens do arquivo não foram entendidos e ficaram de fora."
+   },
+   "backupNaoCouberam": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} anotação ficaria grande demais somada; ficou o texto do celular.",
+    "outro": "{n} anotações ficariam grandes demais somadas; ficou o texto do celular."
+   },
+   "backupContaAnotacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} anotação",
+    "outro": "{n} anotações"
+   },
+   "backupContaFavoritos": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} favorito",
+    "outro": "{n} favoritos"
+   },
+   "backupContaGrifos": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} grifo",
+    "outro": "{n} grifos"
+   },
+   "audioOuvir": "ouvir a gravação",
+   "audioRotulos.introducao": "Introdução",
+   "audioRotulos.finalizacao": "Finalização",
+   "audioRotulos.resumo": "Resumo",
+   "audioRotulos.posfacio": "Posfácio",
+   "audioTituloSeif": {
+    "args": [
+     "siman",
+     "seif"
+    ],
+    "texto": "Siman {siman} · seif {seif}"
+   },
+   "audioTituloSiman": {
+    "args": [
+     "siman"
+    ],
+    "texto": "Siman {siman}"
+   },
+   "audioBaixarSiman": {
+    "args": [
+     "mb"
+    ],
+    "texto": "Baixar o siman · {mb} MB"
+   },
+   "audioBaixando": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "Baixando {k} de {n}…"
+   },
+   "audioSimanBaixado": "Siman baixado",
+   "audioBaixarFalhou": "Não foi possível baixar tudo. Confira a internet ou espere um pouco, e toque de novo.",
+   "audioCobre": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "Esta gravação cobre os seifim {a} e {b}"
+   },
+   "audioBaixandoUm": {
+    "args": [
+     "p"
+    ],
+    "texto": "baixando {p}%"
+   },
+   "audioErroBaixar": "Não foi possível baixar a gravação. Confira a internet ou espere um pouco, e toque em tocar.",
+   "audioErroTocar": "Não foi possível tocar a gravação. Toque em tocar de novo.",
+   "audioTocar": "tocar",
+   "audioPausar": "pausar",
+   "audioRecuar": "voltar 15 segundos",
+   "audioAdiantar": "avançar 15 segundos",
+   "audioVelocidade": "velocidade",
+   "audioFechar": "fechar o tocador",
+   "audioBarra": "posição na gravação",
+   "audioSecao": "ÁUDIO",
+   "audioMostrarFone": "Mostrar o botão de ouvir (🎧)",
+   "audioMostrarFoneNota": "As gravações são em português.",
+   "audioEspacoUsado": "Espaço usado",
+   "contaGravacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} gravação",
+    "outro": "{n} gravações"
+   },
+   "audioLimite": "Limite de espaço",
+   "audioSemLimite": "sem limite",
+   "audioLimiteNota": "Passou do limite, saem as gravações ouvidas há mais tempo.",
+   "audioApagar": "Apagar áudios baixados",
+   "audioApagarPergunta": "Apagar os áudios baixados?",
+   "audioApagarDetalhe": "As gravações saem do aparelho e são baixadas de novo quando você tocar. O ponto onde você parou fica guardado.",
+   "audioApagarSim": "Apagar",
+   "versaoNovaTitulo": "Há uma versão nova do app",
+   "versaoNovaDetalhe": "Atualize pela Play Store para receber as novidades e correções.",
+   "versaoNovaAtualizar": "Atualizar",
+   "versaoNovaAgoraNao": "Agora não",
+   "separadorDecimal": ","
+  },
+  "en": {
+   "voltar": "back",
+   "ajustes": "Settings",
+   "favoritos": "Favorites",
+   "favoritoGuardar": "add to favorites",
+   "favoritoTirar": "remove from favorites",
+   "favoritosVaziosTitulo": "Your study places are kept here",
+   "favoritosVazios": "When you want to come back to a seif, a siman or a section of an appendix, tap the star at the top of the reading page. It will appear in this list, in the order of the book, ready to open.",
+   "favoritoTirarPergunta": "Remove from favorites?",
+   "favoritoTirarDetalhe": "Nothing in the text changes; it is only removed from this list.",
+   "favoritoTirarSim": "Remove",
+   "anotacaoEscrever": "write a note",
+   "anotacaoAbrir": "open note",
+   "anotacaoDica": "Write your note here…",
+   "anotacaoGuardar": "Save",
+   "anotacaoApagar": "delete",
+   "anotacaoEnviar": "send",
+   "anotacaoFecharPergunta": "Save the note?",
+   "anotacaoFecharDetalhe": "You changed the text and haven't saved it yet.",
+   "anotacaoContinuar": "Keep writing",
+   "anotacaoDescartar": "Discard",
+   "anotacaoApagarPergunta": "Delete this note?",
+   "anotacaoApagarDetalhe": "What you wrote will be deleted. The original text does not change.",
+   "anotacaoApagarSim": "Delete",
+   "anotacoesEnviarTodas": "send all",
+   "secaoLugares": "SAVED PLACES",
+   "secaoAnotacoes": "NOTES",
+   "secaoGrifos": "HIGHLIGHTS",
+   "grifar": "highlight",
+   "grifado": "highlighted",
+   "grifoTrechoMaior": "to highlight, select a longer passage",
+   "grifoTrocarCor": "change color",
+   "grifoTirar": "remove highlight",
+   "grifoTirarPergunta": "Remove this highlight?",
+   "grifoTirarDetalhe": "The text does not change; it only loses the color.",
+   "grifoAvisoTitulo": "Highlighting a passage",
+   "grifoAvisoTexto": "Press and hold on the text, adjust the selection and tap Copy. The colors appear at the bottom of the screen: tap one and the passage is highlighted. To change the color or remove it, tap the highlight.",
+   "grifoAvisoEntendi": "got it",
+   "grifoAvisoNaoMostrar": "don't show again",
+   "grifoCores.amarelo": "yellow",
+   "grifoCores.verde": "green",
+   "grifoCores.azul": "blue",
+   "grifoCores.rosa": "pink",
+   "abrindoOBanco": "Opening the text…",
+   "erroAoAbrirOBanco": "Couldn't open the app's text",
+   "erroCopie": "Tap send by email, or copy the message and send it to meorhaalacha@gmail.com.",
+   "falhaTitulo": "Something went wrong on this screen",
+   "falhaFrase": "Nothing was lost: your favorites, notes and highlights are still saved.",
+   "voltarAoInicio": "Back to the start",
+   "tentarDeNovo": "Try again",
+   "enviarPorEmail": "send by email",
+   "emailSemApp": "No email app was found on this phone. Tap copy and paste the message wherever you prefer.",
+   "continuar": "continue",
+   "simanInteiro": "whole siman",
+   "noAnexo": "in the appendix",
+   "numeroDoSeif": {
+    "args": [
+     "n"
+    ],
+    "texto": "seif {n}"
+   },
+   "citacaoNumero": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "quote {k} of {n}"
+   },
+   "temas": "TOPICS",
+   "rotuloCampoSiman": "SIMAN",
+   "rotuloCampoBusca": "SEARCH",
+   "irAoSimanExemplo": "‎128 · קכח",
+   "simanNaoAchado": "Not found. This field only takes the siman number (1 to 697) or its Hebrew letters — it doesn't search for words.",
+   "seifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "There is no seif {seif} in siman {siman}. Tap above to open the siman."
+   },
+   "linkSeifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "The link asks for seif {seif} of siman {siman}, which does not exist. The whole siman was opened."
+   },
+   "linkLugarQueNaoHa": "The link asks for a place that does not exist in the Mishna Berura.",
+   "buscarExemplo": "word or phrase",
+   "buscarNesteTema": "search this topic",
+   "ultimasBuscas": "RECENT SEARCHES",
+   "limparBuscas": "clear",
+   "soNoTema": "only in topic",
+   "buscarNoLivroTodo": "search the whole book",
+   "nadaNoTema": "This text was not found in this topic.",
+   "acaoBuscar": "search",
+   "acaoLupa": "search in this seif",
+   "buscarNesteSeif": "search here",
+   "nadaNesteSeif": "not found in this seif.",
+   "nadaNoSaDesteSiman": "not found in the Shulchan Aruch of this siman.",
+   "nadaNoKuntres": "not found in any section.",
+   "emSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "in {n} section",
+    "outro": "in {n} sections"
+   },
+   "noSimanTodo": "in the siman",
+   "achadoAnterior": "previous match",
+   "irAoPrimeiro": "go to the first match in this text",
+   "contaAchados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} match",
+    "outro": "{n} matches"
+   },
+   "proximoAchado": "next match",
+   "rotuloBusca": "SEARCH",
+   "contaResultados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} result",
+    "outro": "{n} results"
+   },
+   "buscando": "searching…",
+   "termoCurto": "type at least two letters.",
+   "nenhumResultado": "this phrase was not found anywhere in the sources.",
+   "filtroTudo": "all",
+   "filtroNomes": "titles",
+   "filtroAnexo": "appendix",
+   "filtroPalavraInteira": "whole word",
+   "nadaComPalavraInteira": "With \"whole word\" on, no results are left. Turn off the button above to also search inside other words.",
+   "filtroEmSequencia": "in sequence",
+   "nadaEmSequencia": "With \"in sequence\" on, no results are left. Turn off the button above to search for the words separately, anywhere in the same text.",
+   "nomesDeSimanim": "SIMAN TITLES",
+   "nosAnexos": "IN THE APPENDICES",
+   "mostrarMais": "show more",
+   "buscaNota": "The search finds the exact phrase anywhere within a word — searching שבת also finds בשבת. Two or three words are found separately, in any order, as long as they are in the same text (the same seif, seif katan, note or passage); for the joined phrase, turn on \"in sequence\". For the whole word only, turn on \"whole word\". Hebrew quotation marks count the same as regular ones, and nikud doesn't get in the way.",
+   "rotuloTema": "TOPIC",
+   "contaSimanim": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} siman",
+    "outro": "{n} simanim"
+   },
+   "contaSeifim": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} seif",
+    "outro": "{n} seifim"
+   },
+   "numeroDoSiman": {
+    "args": [
+     "n"
+    ],
+    "texto": "siman {n}"
+   },
+   "doTomo": {
+    "args": [
+     "n"
+    ],
+    "texto": "volume {n}"
+   },
+   "tomos": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "volumes {a} and {b}"
+   },
+   "marcaTomo": {
+    "args": [
+     "tomo",
+     "siman"
+    ],
+    "texto": "VOLUME {tomo} — from siman {siman}"
+   },
+   "simanAnterior": "previous siman",
+   "proximoSiman": "next siman",
+   "seifAnterior": "previous seif",
+   "proximoSeif": "next seif",
+   "fechar": "close",
+   "verCompleto": "SEE FULL TEXT",
+   "foraDosLinks": "There is text here that only appears under SEE FULL TEXT",
+   "copiar": "copy",
+   "copiado": "copied",
+   "compartilhar": "share",
+   "avisarErro": "report error",
+   "copiaEnsina": "Copied. Tap share to send it to someone, or report error if you saw a mistake in the text.",
+   "erroConvite": "Describe here the mistake you saw:",
+   "erroSemEmail": "No email app was found on this phone. Write to meorhaalacha@gmail.com.",
+   "referenciaAcrescentada": "reference added",
+   "assinaturaAcrescentada": "signature added",
+   "marcadoresRetirados": "markers removed",
+   "rotuloAnexo": "APPENDIX",
+   "anexoDoMb": "appendix to the Mishnah Berurah",
+   "anexoDoBh": "appendix to the Biur Halachah",
+   "contaSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} section",
+    "outro": "{n} sections"
+   },
+   "secaoAnterior": "previous section",
+   "proximaSecao": "next section",
+   "abrirAnexo": "APPENDIX",
+   "aparencia": "APPEARANCE",
+   "paletas.pergaminho.nome": "Parchment",
+   "paletas.pergaminho.descricao": "cream and brown, like book paper",
+   "paletas.papelBranco.nome": "White paper",
+   "paletas.papelBranco.descricao": "white and gray, clean and neutral",
+   "paletas.noturno.nome": "Night mode",
+   "paletas.noturno.descricao": "dark background, for studying at night",
+   "paletas.sepiaForte.nome": "Strong sepia",
+   "paletas.sepiaForte.descricao": "more contrast and warmer letters",
+   "paletas.vivo.nome": "Vivid",
+   "paletas.vivo.descricao": "strong colors, for those who like color",
+   "letraDoTexto": "TEXT FONT",
+   "fontes.sistema.nome": "The phone's font",
+   "fontes.frankRuhl.descricao": "the classic Hebrew book typeface",
+   "fontes.david.descricao": "more open, good for tired eyes",
+   "fontes.heebo.descricao": "no decorative strokes, made for screens",
+   "escritaRashi": "RASHI LETTERS",
+   "rashiOpcoes.nenhum": "Don't use",
+   "rashiOpcoes.tudoMenosSa": "In the commentaries",
+   "rashiNota": "Rashi letters are used only for the commentaries. The Shulchan Aruch always stays in regular letters, as in the printed book. When you copy, the text always comes out in regular letters.",
+   "telaInicial": "CONTINUE WHERE I LEFT OFF",
+   "mostrarContinuar": "Show on the first screen",
+   "mostrarContinuarNota": "The card with the last place you read and the two places before it, at the top of the first screen.",
+   "leituraSecao": "READING",
+   "telaAcesa": "Keep the screen on",
+   "telaAcesaNota": "While you read a seif or an appendix. If no one touches the screen for 10 minutes, it turns off as usual.",
+   "idiomaDoApp": "LANGUAGE",
+   "idiomaNota": "The original text stays in Hebrew in every language. Only the menus and buttons change.",
+   "citacao": "COPYING",
+   "citacaoNota": "Applies to the copy button and also to text you select with your finger. When the app adds the reference to a selected passage, it shows a notice on screen. If the app isn't sure where the passage came from, it leaves it untouched.",
+   "citacaoReferencia": "Source reference",
+   "citacaoReferenciaNota": "The line with the siman and seif, above the text.",
+   "citacaoMarcadores": "Markers in the text",
+   "citacaoMarcadoresNota": "The Hebrew letters in parentheses and brackets, and the asterisk, that point to the commentaries. They are part of the original text; turning this off only changes the copied text.",
+   "citacaoAssinatura": "App name at the end",
+   "citacaoAssinaturaNota": "Whoever receives the passage knows where it came from.",
+   "recomecar": "RESET",
+   "voltarAoOriginal": "Restore original settings",
+   "voltarAoOriginalNota": "Colors, language, font (style and size), Rashi letters, the three copying options and the audio options go back to how they came.",
+   "voltarAoOriginalPergunta": "Restore everything to the original?",
+   "voltarAoOriginalDetalhe": "Where you stopped in each recording goes back to the beginning. The place where you stopped reading, your favorites and your notes are kept. Nothing in the original text changes.",
+   "cancelar": "Cancel",
+   "voltarAoOriginalSim": "Restore",
+   "sobreOApp": "ABOUT",
+   "aberturaSobre": "About this edition",
+   "politicaDePrivacidade": "Privacy policy",
+   "abreNoNavegador": "opens in the browser",
+   "versaoDaBase": "text version",
+   "geradoEm": "prepared on",
+   "versaoDoApp": "app version",
+   "novidadesTitulo": "What's new",
+   "novidadesEntendi": "Got it",
+   "novidadesAbrir": "what's new",
+   "novidadesVersao": "version",
+   "novIrAoSeif": "Go straight to a seif: in the siman field, type the siman and the seif",
+   "novCopiar": "After the copy button: share, or report error in the text",
+   "novTema": "Search only within a topic, on the topic page",
+   "novUltimos": "On the first screen, the last places you read; when you tap the search, your recent searches",
+   "novAnotarCaixas": "The note pencil now in every box too",
+   "novBackup": "Save and restore your notes, favorites and highlights (Settings, BACKUP)",
+   "novTelaAcesa": "The screen stays on while you read (Settings, READING)",
+   "novLink": "Copied text carries a link: tapping it opens the app right at that seif",
+   "backupSecao": "BACKUP",
+   "backupGuardar": "Save a backup",
+   "backupGuardarNota": "Favorites, notes and highlights in one file. Send it to yourself (WhatsApp, email, Drive) so nothing is lost when you change phones.",
+   "backupGuardarTitulo": "Save the backup",
+   "backupRestaurar": "Restore a backup",
+   "backupRestaurarNota": "Choose the file of a backup saved earlier.",
+   "backupNadaParaGuardar": "There are no favorites, notes or highlights to save yet.",
+   "backupFalhou": "The backup file could not be created.",
+   "backupLerEstragado": "This file could not be read.",
+   "backupLerOutro": "This file is not a backup from this app.",
+   "backupLerNovo": "This backup was made by a newer version of the app. Update the app on the Play Store and try again.",
+   "backupLerVazio": "This backup is empty.",
+   "backupComoTitulo": "Restore the backup",
+   "backupComoTexto": "The phone already has favorites, notes or highlights.",
+   "backupSomar": "Combine",
+   "backupSomarNota": "Adds the backup to what is already on the phone, with no duplicates.",
+   "backupSubstituir": "Replace",
+   "backupSubstituirNota": "Only what is in the backup will remain. This will be deleted from the phone:",
+   "backupRestaurado": "Backup restored",
+   "backupAgoraTem": "The phone now has:",
+   "backupDescartados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} item in the file was not understood and was left out.",
+    "outro": "{n} items in the file were not understood and were left out."
+   },
+   "backupNaoCouberam": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} note would be too long if combined; the text on the phone was kept.",
+    "outro": "{n} notes would be too long if combined; the text on the phone was kept."
+   },
+   "backupContaAnotacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} note",
+    "outro": "{n} notes"
+   },
+   "backupContaFavoritos": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} favorite",
+    "outro": "{n} favorites"
+   },
+   "backupContaGrifos": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} highlight",
+    "outro": "{n} highlights"
+   },
+   "audioOuvir": "listen to the recording",
+   "audioRotulos.introducao": "Introduction",
+   "audioRotulos.finalizacao": "Conclusion",
+   "audioRotulos.resumo": "Summary",
+   "audioRotulos.posfacio": "Afterword",
+   "audioTituloSeif": {
+    "args": [
+     "siman",
+     "seif"
+    ],
+    "texto": "Siman {siman} · seif {seif}"
+   },
+   "audioTituloSiman": {
+    "args": [
+     "siman"
+    ],
+    "texto": "Siman {siman}"
+   },
+   "audioBaixarSiman": {
+    "args": [
+     "mb"
+    ],
+    "texto": "Download the siman · {mb} MB"
+   },
+   "audioBaixando": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "Downloading {k} of {n}…"
+   },
+   "audioSimanBaixado": "Siman downloaded",
+   "audioBaixarFalhou": "Could not download everything. Check the internet or wait a moment, then tap again.",
+   "audioCobre": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "This recording covers seifim {a} and {b}"
+   },
+   "audioBaixandoUm": {
+    "args": [
+     "p"
+    ],
+    "texto": "downloading {p}%"
+   },
+   "audioErroBaixar": "Could not download the recording. Check the internet or wait a moment, then tap play.",
+   "audioErroTocar": "Could not play the recording. Tap play again.",
+   "audioTocar": "play",
+   "audioPausar": "pause",
+   "audioRecuar": "back 15 seconds",
+   "audioAdiantar": "forward 15 seconds",
+   "audioVelocidade": "speed",
+   "audioFechar": "close the player",
+   "audioBarra": "position in the recording",
+   "audioSecao": "AUDIO",
+   "audioMostrarFone": "Show the listen button (🎧)",
+   "audioMostrarFoneNota": "The recordings are in Portuguese.",
+   "audioEspacoUsado": "Space used",
+   "contaGravacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} recording",
+    "outro": "{n} recordings"
+   },
+   "audioLimite": "Space limit",
+   "audioSemLimite": "no limit",
+   "audioLimiteNota": "When the limit is passed, the recordings heard longest ago are removed.",
+   "audioApagar": "Delete downloaded audio",
+   "audioApagarPergunta": "Delete the downloaded audio?",
+   "audioApagarDetalhe": "The recordings leave the device and are downloaded again when you play them. Where you stopped is kept.",
+   "audioApagarSim": "Delete",
+   "versaoNovaTitulo": "A new version of the app is available",
+   "versaoNovaDetalhe": "Update it on the Play Store to get the latest improvements and fixes.",
+   "versaoNovaAtualizar": "Update",
+   "versaoNovaAgoraNao": "Not now",
+   "separadorDecimal": "."
+  },
+  "es": {
+   "voltar": "volver",
+   "ajustes": "Ajustes",
+   "favoritos": "Favoritos",
+   "favoritoGuardar": "agregar a favoritos",
+   "favoritoTirar": "quitar de favoritos",
+   "favoritosVaziosTitulo": "Acá quedan tus lugares de estudio",
+   "favoritosVazios": "Cuando quieras volver a un seif, a un siman o a una sección del anexo, tocá la estrella arriba en la página de lectura. Va a aparecer en esta lista, en el orden del libro, listo para abrir.",
+   "favoritoTirarPergunta": "¿Quitar de favoritos?",
+   "favoritoTirarDetalhe": "El texto no cambia; solo sale de esta lista.",
+   "favoritoTirarSim": "Quitar",
+   "anotacaoEscrever": "escribir una anotación",
+   "anotacaoAbrir": "abrir la anotación",
+   "anotacaoDica": "Escribí acá tu anotación…",
+   "anotacaoGuardar": "Guardar",
+   "anotacaoApagar": "borrar",
+   "anotacaoEnviar": "enviar",
+   "anotacaoFecharPergunta": "¿Guardar la anotación?",
+   "anotacaoFecharDetalhe": "Cambiaste el texto y todavía no lo guardaste.",
+   "anotacaoContinuar": "Seguir escribiendo",
+   "anotacaoDescartar": "Descartar",
+   "anotacaoApagarPergunta": "¿Borrar esta anotación?",
+   "anotacaoApagarDetalhe": "Lo que escribiste se va a borrar. El texto original no cambia.",
+   "anotacaoApagarSim": "Borrar",
+   "anotacoesEnviarTodas": "enviar todas",
+   "secaoLugares": "LUGARES GUARDADOS",
+   "secaoAnotacoes": "ANOTACIONES",
+   "secaoGrifos": "RESALTADOS",
+   "grifar": "resaltar",
+   "grifado": "resaltado",
+   "grifoTrechoMaior": "para resaltar, seleccioná un fragmento más largo",
+   "grifoTrocarCor": "cambiar el color",
+   "grifoTirar": "quitar el resaltado",
+   "grifoTirarPergunta": "¿Quitar este resaltado?",
+   "grifoTirarDetalhe": "El texto no cambia; solo pierde el color.",
+   "grifoAvisoTitulo": "Resaltar un fragmento",
+   "grifoAvisoTexto": "Mantené el dedo sobre el texto, ajustá la selección y tocá Copiar. Abajo de la pantalla aparecen los colores: tocá uno y el fragmento queda resaltado. Para cambiar el color o quitarlo, tocá el resaltado.",
+   "grifoAvisoEntendi": "entendido",
+   "grifoAvisoNaoMostrar": "no mostrar más",
+   "grifoCores.amarelo": "amarillo",
+   "grifoCores.verde": "verde",
+   "grifoCores.azul": "azul",
+   "grifoCores.rosa": "rosa",
+   "abrindoOBanco": "Abriendo el texto…",
+   "erroAoAbrirOBanco": "No se pudo abrir el texto de la app",
+   "erroCopie": "Tocá enviar por correo, o copiá el mensaje y mandalo a meorhaalacha@gmail.com.",
+   "falhaTitulo": "Algo salió mal en esta pantalla",
+   "falhaFrase": "No se perdió nada: tus favoritos, anotaciones y resaltados siguen guardados.",
+   "voltarAoInicio": "Volver al inicio",
+   "tentarDeNovo": "Intentar de nuevo",
+   "enviarPorEmail": "enviar por correo",
+   "emailSemApp": "No encontré una app de correo en este celular. Tocá copiar y pegá el mensaje donde prefieras.",
+   "continuar": "seguir",
+   "simanInteiro": "siman completo",
+   "noAnexo": "en el anexo",
+   "numeroDoSeif": {
+    "args": [
+     "n"
+    ],
+    "texto": "seif {n}"
+   },
+   "citacaoNumero": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "cita {k} de {n}"
+   },
+   "temas": "TEMAS",
+   "rotuloCampoSiman": "SIMAN",
+   "rotuloCampoBusca": "BUSCAR",
+   "irAoSimanExemplo": "‎128 · קכח",
+   "simanNaoAchado": "No lo encontré. El campo acepta solo el número del siman (1 a 697) o sus letras; no busca palabras.",
+   "seifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "No hay seif {seif} en el simán {siman}. Tocá arriba para abrir el simán."
+   },
+   "linkSeifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "El link pide el seif {seif} del simán {siman}, que no existe. Se abrió el simán entero."
+   },
+   "linkLugarQueNaoHa": "El link pide un lugar que no existe en la Mishná Berurá.",
+   "buscarExemplo": "palabra o frase",
+   "buscarNesteTema": "buscar en este tema",
+   "ultimasBuscas": "ÚLTIMAS BÚSQUEDAS",
+   "limparBuscas": "borrar",
+   "soNoTema": "solo en el tema",
+   "buscarNoLivroTodo": "buscar en todo el libro",
+   "nadaNoTema": "No encontré este fragmento en este tema.",
+   "acaoBuscar": "buscar",
+   "acaoLupa": "buscar en este seif",
+   "buscarNesteSeif": "buscar acá",
+   "nadaNesteSeif": "no lo encontré en este seif.",
+   "nadaNoSaDesteSiman": "no lo encontré en el Shuljan Aruj de este siman.",
+   "nadaNoKuntres": "no lo encontré en ninguna sección.",
+   "emSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "en {n} sección",
+    "outro": "en {n} secciones"
+   },
+   "noSimanTodo": "en el siman",
+   "achadoAnterior": "coincidencia anterior",
+   "irAoPrimeiro": "ir a la primera coincidencia de este texto",
+   "contaAchados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} coincidencia",
+    "outro": "{n} coincidencias"
+   },
+   "proximoAchado": "coincidencia siguiente",
+   "rotuloBusca": "BÚSQUEDA",
+   "contaResultados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} resultado",
+    "outro": "{n} resultados"
+   },
+   "buscando": "buscando…",
+   "termoCurto": "escribí al menos dos letras.",
+   "nenhumResultado": "no encontré esto en ninguna parte de la obra.",
+   "filtroTudo": "todo",
+   "filtroNomes": "títulos",
+   "filtroAnexo": "anexo",
+   "filtroPalavraInteira": "palabra completa",
+   "nadaComPalavraInteira": "Con \"palabra completa\" activado no quedó ningún resultado. Desactivá el botón de arriba para buscar también dentro de otras palabras.",
+   "filtroEmSequencia": "en secuencia",
+   "nadaEmSequencia": "Con \"en secuencia\" activado no quedó ningún resultado. Desactivá el botón de arriba para buscar las palabras por separado, en cualquier parte del mismo texto.",
+   "nomesDeSimanim": "TÍTULOS DE SIMANIM",
+   "nosAnexos": "EN LOS ANEXOS",
+   "mostrarMais": "mostrar más",
+   "buscaNota": "La búsqueda encuentra la frase exacta en cualquier parte de una palabra: buscar שבת también encuentra בשבת. Dos o tres palabras se encuentran por separado, en cualquier orden, siempre que estén en el mismo texto (el mismo seif, seif katan, nota o fragmento); para la frase seguida, activá \"en secuencia\". Para la palabra completa solamente, activá \"palabra completa\". Las comillas hebreas valen igual que las comunes, y el nikud no molesta.",
+   "rotuloTema": "TEMA",
+   "contaSimanim": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} siman",
+    "outro": "{n} simanim"
+   },
+   "contaSeifim": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} seif",
+    "outro": "{n} seifim"
+   },
+   "numeroDoSiman": {
+    "args": [
+     "n"
+    ],
+    "texto": "siman {n}"
+   },
+   "doTomo": {
+    "args": [
+     "n"
+    ],
+    "texto": "tomo {n}"
+   },
+   "tomos": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "tomos {a} y {b}"
+   },
+   "marcaTomo": {
+    "args": [
+     "tomo",
+     "siman"
+    ],
+    "texto": "TOMO {tomo} — desde el siman {siman}"
+   },
+   "simanAnterior": "siman anterior",
+   "proximoSiman": "siman siguiente",
+   "seifAnterior": "seif anterior",
+   "proximoSeif": "seif siguiente",
+   "fechar": "cerrar",
+   "verCompleto": "VER COMPLETO",
+   "foraDosLinks": "Acá hay texto que solo aparece en VER COMPLETO",
+   "copiar": "copiar",
+   "copiado": "copiado",
+   "compartilhar": "compartir",
+   "avisarErro": "avisar error",
+   "copiaEnsina": "Copiado. Tocá compartir para mandarlo a alguien, o avisar error si viste un error en el texto.",
+   "erroConvite": "Describí acá el error que viste:",
+   "erroSemEmail": "No encontré una app de correo en este celular. Escribí a meorhaalacha@gmail.com.",
+   "referenciaAcrescentada": "referencia agregada",
+   "assinaturaAcrescentada": "firma agregada",
+   "marcadoresRetirados": "marcadores quitados",
+   "rotuloAnexo": "ANEXO",
+   "anexoDoMb": "anexo de la Mishná Brurá",
+   "anexoDoBh": "anexo del Biur Halajá",
+   "contaSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} sección",
+    "outro": "{n} secciones"
+   },
+   "secaoAnterior": "sección anterior",
+   "proximaSecao": "sección siguiente",
+   "abrirAnexo": "ANEXO",
+   "aparencia": "APARIENCIA",
+   "paletas.pergaminho.nome": "Pergamino",
+   "paletas.pergaminho.descricao": "crema y marrón, como papel de libro",
+   "paletas.papelBranco.nome": "Papel blanco",
+   "paletas.papelBranco.descricao": "blanco y gris, limpio y neutro",
+   "paletas.noturno.nome": "Nocturno",
+   "paletas.noturno.descricao": "fondo oscuro, para estudiar de noche",
+   "paletas.sepiaForte.nome": "Sepia intenso",
+   "paletas.sepiaForte.descricao": "más contraste y letra más cálida",
+   "paletas.vivo.nome": "Vivo",
+   "paletas.vivo.descricao": "colores fuertes, para los que les gusta el color",
+   "letraDoTexto": "TIPO DE LETRA",
+   "fontes.sistema.nome": "La del celular",
+   "fontes.frankRuhl.descricao": "la letra clásica de los libros hebreos",
+   "fontes.david.descricao": "más abierta, buena para la vista cansada",
+   "fontes.heebo.descricao": "sin decoraciones, hecha para pantalla",
+   "escritaRashi": "LETRA DE RASHI",
+   "rashiOpcoes.nenhum": "No usar",
+   "rashiOpcoes.tudoMenosSa": "En los comentarios",
+   "rashiNota": "La letra de Rashi se usa solo en los comentarios. El Shuljan Aruj queda siempre en letra común, como en el libro impreso. Al copiar, el texto sale siempre en letra común.",
+   "telaInicial": "SEGUIR DONDE DEJÉ",
+   "mostrarContinuar": "Mostrar en la primera pantalla",
+   "mostrarContinuarNota": "La tarjeta del último lugar que leíste y los dos lugares anteriores, arriba en la primera pantalla.",
+   "leituraSecao": "LECTURA",
+   "telaAcesa": "Mantener la pantalla encendida",
+   "telaAcesaNota": "Mientras leés un seif o un anexo. Si nadie toca la pantalla durante 10 minutos, se apaga como de costumbre.",
+   "idiomaDoApp": "IDIOMA",
+   "idiomaNota": "El texto original sigue en hebreo en cualquier idioma. Lo que cambia son los menús y los botones.",
+   "citacao": "AL COPIAR",
+   "citacaoNota": "Vale para el botón copiar y también para el texto que seleccionás con el dedo. Cuando la app agrega la referencia a un texto seleccionado, lo avisa en pantalla. Si la app no está segura de dónde viene el texto, no lo toca.",
+   "citacaoReferencia": "Referencia de la fuente",
+   "citacaoReferenciaNota": "La línea con el siman y el seif, arriba del texto.",
+   "citacaoMarcadores": "Marcadores dentro del texto",
+   "citacaoMarcadoresNota": "Las letras hebreas entre paréntesis y corchetes, y el asterisco, que remiten a los comentarios. Son parte del texto original; desactivarlo acá cambia solo el texto copiado.",
+   "citacaoAssinatura": "Nombre de la app al final",
+   "citacaoAssinaturaNota": "Quien reciba el texto sabe de dónde viene.",
+   "recomecar": "RESTABLECER",
+   "voltarAoOriginal": "Restablecer la configuración original",
+   "voltarAoOriginalNota": "Los colores, el idioma, la letra (tipo y tamaño), la letra de Rashi, las tres opciones de copia y las de audio vuelven a como venían de fábrica.",
+   "voltarAoOriginalPergunta": "¿Volver todo a lo original?",
+   "voltarAoOriginalDetalhe": "El punto donde paraste en cada audio vuelve al comienzo. El lugar donde dejaste de leer, tus favoritos y tus anotaciones no se pierden. Nada del texto original cambia.",
+   "cancelar": "Cancelar",
+   "voltarAoOriginalSim": "Restablecer",
+   "sobreOApp": "ACERCA DE",
+   "aberturaSobre": "Sobre esta edición",
+   "politicaDePrivacidade": "Política de privacidad",
+   "abreNoNavegador": "se abre en el navegador",
+   "versaoDaBase": "versión del texto",
+   "geradoEm": "generado el",
+   "versaoDoApp": "versión de la app",
+   "novidadesTitulo": "Qué hay de nuevo",
+   "novidadesEntendi": "Entendido",
+   "novidadesAbrir": "qué hay de nuevo",
+   "novidadesVersao": "versión",
+   "novIrAoSeif": "Ir directo a un seif: en el campo del simán, escribí el simán y el seif",
+   "novCopiar": "Después del botón copiar: compartir, o avisar error en el texto",
+   "novTema": "Buscar solo dentro de un tema, en la página del tema",
+   "novUltimos": "En la primera pantalla, los últimos lugares leídos; al tocar la búsqueda, las últimas búsquedas",
+   "novAnotarCaixas": "El lápiz de las anotaciones también en cada caja",
+   "novBackup": "Guardar y restaurar las anotaciones, los favoritos y los resaltados (Ajustes, COPIA DE SEGURIDAD)",
+   "novTelaAcesa": "La pantalla no se apaga mientras leés (Ajustes, LECTURA)",
+   "novLink": "El texto copiado lleva un link: quien lo toca abre la app directo en ese seif",
+   "backupSecao": "COPIA DE SEGURIDAD",
+   "backupGuardar": "Guardar una copia de seguridad",
+   "backupGuardarNota": "Favoritos, anotaciones y resaltados en un archivo. Mandátelo a vos mismo (WhatsApp, correo, Drive) para no perder nada al cambiar de celular.",
+   "backupGuardarTitulo": "Guardar la copia de seguridad",
+   "backupRestaurar": "Restaurar una copia de seguridad",
+   "backupRestaurarNota": "Elegir el archivo de una copia guardada antes.",
+   "backupNadaParaGuardar": "Todavía no hay favoritos, anotaciones ni resaltados para guardar.",
+   "backupFalhou": "No se pudo crear el archivo de la copia.",
+   "backupLerEstragado": "No se pudo leer este archivo.",
+   "backupLerOutro": "Este archivo no es una copia de esta app.",
+   "backupLerNovo": "Esta copia la hizo una versión más nueva de la app. Actualizá la app en Play Store y probá de nuevo.",
+   "backupLerVazio": "Esta copia está vacía.",
+   "backupComoTitulo": "Restaurar la copia",
+   "backupComoTexto": "El celular ya tiene favoritos, anotaciones o resaltados.",
+   "backupSomar": "Sumar",
+   "backupSomarNota": "Junta la copia con lo que ya está en el celular, sin repetir nada.",
+   "backupSubstituir": "Reemplazar",
+   "backupSubstituirNota": "Queda solo lo que está en la copia. Se borrará del celular:",
+   "backupRestaurado": "Copia restaurada",
+   "backupAgoraTem": "Ahora el celular tiene:",
+   "backupDescartados": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} elemento del archivo no se entendió y quedó afuera.",
+    "outro": "{n} elementos del archivo no se entendieron y quedaron afuera."
+   },
+   "backupNaoCouberam": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} anotación quedaría demasiado larga sumada; quedó el texto del celular.",
+    "outro": "{n} anotaciones quedarían demasiado largas sumadas; quedó el texto del celular."
+   },
+   "backupContaAnotacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} anotación",
+    "outro": "{n} anotaciones"
+   },
+   "backupContaFavoritos": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} favorito",
+    "outro": "{n} favoritos"
+   },
+   "backupContaGrifos": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} resaltado",
+    "outro": "{n} resaltados"
+   },
+   "audioOuvir": "escuchar la grabación",
+   "audioRotulos.introducao": "Introducción",
+   "audioRotulos.finalizacao": "Conclusión",
+   "audioRotulos.resumo": "Resumen",
+   "audioRotulos.posfacio": "Epílogo",
+   "audioTituloSeif": {
+    "args": [
+     "siman",
+     "seif"
+    ],
+    "texto": "Simán {siman} · seif {seif}"
+   },
+   "audioTituloSiman": {
+    "args": [
+     "siman"
+    ],
+    "texto": "Simán {siman}"
+   },
+   "audioBaixarSiman": {
+    "args": [
+     "mb"
+    ],
+    "texto": "Descargar el simán · {mb} MB"
+   },
+   "audioBaixando": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "Descargando {k} de {n}…"
+   },
+   "audioSimanBaixado": "Simán descargado",
+   "audioBaixarFalhou": "No se pudo descargar todo. Revisá la conexión o esperá un momento, y tocá de nuevo.",
+   "audioCobre": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "Esta grabación abarca los seifim {a} y {b}"
+   },
+   "audioBaixandoUm": {
+    "args": [
+     "p"
+    ],
+    "texto": "descargando {p}%"
+   },
+   "audioErroBaixar": "No se pudo descargar la grabación. Revisá la conexión o esperá un momento, y tocá reproducir.",
+   "audioErroTocar": "No se pudo reproducir la grabación. Tocá reproducir de nuevo.",
+   "audioTocar": "reproducir",
+   "audioPausar": "pausar",
+   "audioRecuar": "retroceder 15 segundos",
+   "audioAdiantar": "avanzar 15 segundos",
+   "audioVelocidade": "velocidad",
+   "audioFechar": "cerrar el reproductor",
+   "audioBarra": "posición en la grabación",
+   "audioSecao": "AUDIO",
+   "audioMostrarFone": "Mostrar el botón de escuchar (🎧)",
+   "audioMostrarFoneNota": "Las grabaciones están en portugués.",
+   "audioEspacoUsado": "Espacio usado",
+   "contaGravacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "{n} grabación",
+    "outro": "{n} grabaciones"
+   },
+   "audioLimite": "Límite de espacio",
+   "audioSemLimite": "sin límite",
+   "audioLimiteNota": "Al pasar el límite, se borran las grabaciones escuchadas hace más tiempo.",
+   "audioApagar": "Borrar audios descargados",
+   "audioApagarPergunta": "¿Borrar los audios descargados?",
+   "audioApagarDetalhe": "Las grabaciones salen del dispositivo y se descargan de nuevo cuando las reproduzcas. El punto donde te quedaste se guarda.",
+   "audioApagarSim": "Borrar",
+   "versaoNovaTitulo": "Hay una versión nueva de la app",
+   "versaoNovaDetalhe": "Actualícela en Play Store para recibir las novedades y correcciones.",
+   "versaoNovaAtualizar": "Actualizar",
+   "versaoNovaAgoraNao": "Ahora no",
+   "separadorDecimal": ","
+  },
+  "he": {
+   "voltar": "חזרה",
+   "ajustes": "הגדרות",
+   "favoritos": "מועדפים",
+   "favoritoGuardar": "הוספה למועדפים",
+   "favoritoTirar": "הסרה מהמועדפים",
+   "favoritosVaziosTitulo": "כאן נשמרים מקומות הלימוד שלך",
+   "favoritosVazios": "כשתרצה לחזור לסעיף, לסימן או לפרק בנספח, הקש על הכוכב בראש דף הקריאה. הוא יופיע ברשימה הזו, לפי סדר הספר, מוכן לפתיחה.",
+   "favoritoTirarPergunta": "להסיר מהמועדפים?",
+   "favoritoTirarDetalhe": "הטקסט לא משתנה; הוא רק יוצא מהרשימה הזו.",
+   "favoritoTirarSim": "הסרה",
+   "anotacaoEscrever": "כתיבת הערה",
+   "anotacaoAbrir": "פתיחת ההערה",
+   "anotacaoDica": "כתוב כאן את ההערה שלך…",
+   "anotacaoGuardar": "שמירה",
+   "anotacaoApagar": "מחיקה",
+   "anotacaoEnviar": "שליחה",
+   "anotacaoFecharPergunta": "לשמור את ההערה?",
+   "anotacaoFecharDetalhe": "שינית את הטקסט ועדיין לא שמרת.",
+   "anotacaoContinuar": "להמשיך לכתוב",
+   "anotacaoDescartar": "ביטול השינויים",
+   "anotacaoApagarPergunta": "למחוק את ההערה?",
+   "anotacaoApagarDetalhe": "מה שכתבת יימחק. הטקסט המקורי לא משתנה.",
+   "anotacaoApagarSim": "מחיקה",
+   "anotacoesEnviarTodas": "שליחת כולן",
+   "secaoLugares": "מקומות שמורים",
+   "secaoAnotacoes": "הערות",
+   "secaoGrifos": "הדגשות",
+   "grifar": "הדגשה",
+   "grifado": "הודגש",
+   "grifoTrechoMaior": "כדי להדגיש, יש לבחור קטע ארוך יותר",
+   "grifoTrocarCor": "החלפת צבע",
+   "grifoTirar": "הסרת ההדגשה",
+   "grifoTirarPergunta": "להסיר את ההדגשה?",
+   "grifoTirarDetalhe": "הטקסט לא משתנה; רק הצבע יורד.",
+   "grifoAvisoTitulo": "הדגשת קטע",
+   "grifoAvisoTexto": "יש ללחוץ לחיצה ארוכה על הטקסט, לכוונן את הבחירה ולהקיש על \"העתקה\". בתחתית המסך יופיעו הצבעים: הקשה על אחד מהם מדגישה את הקטע. כדי להחליף צבע או להסיר, יש להקיש על ההדגשה.",
+   "grifoAvisoEntendi": "הבנתי",
+   "grifoAvisoNaoMostrar": "לא להציג שוב",
+   "grifoCores.amarelo": "צהוב",
+   "grifoCores.verde": "ירוק",
+   "grifoCores.azul": "כחול",
+   "grifoCores.rosa": "ורוד",
+   "abrindoOBanco": "פותח את הטקסט…",
+   "erroAoAbrirOBanco": "לא ניתן לפתוח את הטקסט של האפליקציה",
+   "erroCopie": "הקש על שליחה במייל, או העתק את ההודעה ושלח אותה אל meorhaalacha@gmail.com.",
+   "falhaTitulo": "משהו השתבש במסך הזה",
+   "falhaFrase": "שום דבר לא אבד: המועדפים, ההערות וההדגשות שלך עדיין שמורים.",
+   "voltarAoInicio": "חזרה להתחלה",
+   "tentarDeNovo": "נסה שוב",
+   "enviarPorEmail": "שליחה במייל",
+   "emailSemApp": "לא נמצאה אפליקציית דואר בטלפון הזה. הקש על העתק והדבק את ההודעה היכן שתרצה.",
+   "continuar": "המשך",
+   "simanInteiro": "הסימן כולו",
+   "noAnexo": "בנספח",
+   "numeroDoSeif": {
+    "args": [
+     "n"
+    ],
+    "texto": "סעיף {n}"
+   },
+   "citacaoNumero": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "ציטוט {k} מתוך {n}"
+   },
+   "temas": "נושאים",
+   "rotuloCampoSiman": "סימן",
+   "rotuloCampoBusca": "חיפוש",
+   "irAoSimanExemplo": "128 · קכח",
+   "simanNaoAchado": "לא נמצא. השדה מקבל רק את מספר הסימן (1 עד 697) או את אותיותיו — הוא לא מחפש מילים.",
+   "seifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "אין סעיף {seif} בסימן {siman}. הקש למעלה כדי לפתוח את הסימן."
+   },
+   "linkSeifQueNaoHa": {
+    "args": [
+     "seif",
+     "siman"
+    ],
+    "texto": "הקישור מבקש את סעיף {seif} בסימן {siman}, שאינו קיים. נפתח הסימן כולו."
+   },
+   "linkLugarQueNaoHa": "הקישור מבקש מקום שאינו קיים במשנה ברורה.",
+   "buscarExemplo": "מילה או קטע",
+   "buscarNesteTema": "חיפוש בנושא זה",
+   "ultimasBuscas": "חיפושים אחרונים",
+   "limparBuscas": "ניקוי",
+   "soNoTema": "רק בנושא",
+   "buscarNoLivroTodo": "חיפוש בכל הספר",
+   "nadaNoTema": "הקטע הזה לא נמצא בנושא זה.",
+   "acaoBuscar": "חיפוש",
+   "acaoLupa": "חיפוש בסעיף זה",
+   "buscarNesteSeif": "חיפוש כאן",
+   "nadaNesteSeif": "לא נמצא בסעיף זה.",
+   "nadaNoSaDesteSiman": "לא נמצא בשולחן ערוך של סימן זה.",
+   "nadaNoKuntres": "לא נמצא באף פרק.",
+   "emSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "בפרק אחד",
+    "outro": "ב־{n} פרקים"
+   },
+   "noSimanTodo": "בסימן",
+   "achadoAnterior": "המופע הקודם",
+   "irAoPrimeiro": "מעבר למופע הראשון בטקסט זה",
+   "contaAchados": {
+    "args": [
+     "n"
+    ],
+    "um": "מופע אחד",
+    "outro": "{n} מופעים"
+   },
+   "proximoAchado": "המופע הבא",
+   "rotuloBusca": "חיפוש",
+   "contaResultados": {
+    "args": [
+     "n"
+    ],
+    "um": "תוצאה אחת",
+    "outro": "{n} תוצאות"
+   },
+   "buscando": "מחפש…",
+   "termoCurto": "יש לכתוב לפחות שתי אותיות.",
+   "nenhumResultado": "הקטע לא נמצא בשום מקום בספר.",
+   "filtroTudo": "הכול",
+   "filtroNomes": "שמות",
+   "filtroAnexo": "נספח",
+   "filtroPalavraInteira": "מילה שלמה",
+   "nadaComPalavraInteira": "כאשר \"מילה שלמה\" מופעל, לא נשארו תוצאות. כבה את הכפתור למעלה כדי לחפש גם בתוך מילים אחרות.",
+   "filtroEmSequencia": "ברצף",
+   "nadaEmSequencia": "כאשר \"ברצף\" מופעל, לא נשארו תוצאות. כבה את הכפתור למעלה כדי לחפש את המילים בנפרד, בכל מקום באותו קטע.",
+   "nomesDeSimanim": "שמות הסימנים",
+   "nosAnexos": "בנספחים",
+   "mostrarMais": "הצג עוד",
+   "buscaNota": "החיפוש מוצא את הקטע המדויק בכל מקום בתוך מילה — חיפוש \"שבת\" מוצא גם \"בשבת\". שתיים או שלוש מילים נמצאות בנפרד, בכל סדר, ובלבד שהן באותו קטע (אותו סעיף, סעיף קטן, הערה או דיבור); כדי למצוא את הצירוף ברצף, הפעל \"ברצף\". כדי למצוא רק את המילה השלמה, הפעל \"מילה שלמה\". גרשיים עבריים נחשבים כמו מירכאות רגילות, והניקוד אינו מפריע.",
+   "rotuloTema": "נושא",
+   "contaSimanim": {
+    "args": [
+     "n"
+    ],
+    "um": "סימן אחד",
+    "outro": "{n} סימנים"
+   },
+   "contaSeifim": {
+    "args": [
+     "n"
+    ],
+    "um": "סעיף אחד",
+    "outro": "{n} סעיפים"
+   },
+   "numeroDoSiman": {
+    "args": [
+     "n"
+    ],
+    "texto": "סימן {n}"
+   },
+   "doTomo": {
+    "args": [
+     "n"
+    ],
+    "texto": "חלק {n}"
+   },
+   "tomos": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "חלקים {a} ו־{b}"
+   },
+   "marcaTomo": {
+    "args": [
+     "tomo",
+     "siman"
+    ],
+    "texto": "חלק {tomo} — מסימן {siman}"
+   },
+   "simanAnterior": "הסימן הקודם",
+   "proximoSiman": "הסימן הבא",
+   "seifAnterior": "הסעיף הקודם",
+   "proximoSeif": "הסעיף הבא",
+   "fechar": "סגירה",
+   "verCompleto": "הטקסט המלא",
+   "foraDosLinks": "יש כאן טקסט שמופיע רק ב\"הטקסט המלא\"",
+   "copiar": "העתק",
+   "copiado": "הועתק",
+   "compartilhar": "שיתוף",
+   "avisarErro": "דיווח על טעות",
+   "copiaEnsina": "הועתק. הקש על שיתוף כדי לשלוח למישהו, או על דיווח על טעות אם ראית טעות בטקסט.",
+   "erroConvite": "תאר כאן את הטעות שראית:",
+   "erroSemEmail": "לא נמצאה אפליקציית דואר בטלפון הזה. כתוב אל meorhaalacha@gmail.com.",
+   "referenciaAcrescentada": "נוסף מראה מקום",
+   "assinaturaAcrescentada": "נוספה חתימה",
+   "marcadoresRetirados": "ציוני ההפניה הוסרו",
+   "rotuloAnexo": "נספח",
+   "anexoDoMb": "נספח למשנה ברורה",
+   "anexoDoBh": "נספח לביאור הלכה",
+   "contaSecoes": {
+    "args": [
+     "n"
+    ],
+    "um": "פרק אחד",
+    "outro": "{n} פרקים"
+   },
+   "secaoAnterior": "הפרק הקודם",
+   "proximaSecao": "הפרק הבא",
+   "abrirAnexo": "נספח",
+   "aparencia": "תצוגה",
+   "paletas.pergaminho.nome": "קלף",
+   "paletas.pergaminho.descricao": "שמנת וחום, כמו נייר של ספר",
+   "paletas.papelBranco.nome": "נייר לבן",
+   "paletas.papelBranco.descricao": "לבן ואפור, נקי וניטרלי",
+   "paletas.noturno.nome": "לילה",
+   "paletas.noturno.descricao": "רקע כהה, ללימוד בלילה",
+   "paletas.sepiaForte.nome": "ספיה חזקה",
+   "paletas.sepiaForte.descricao": "יותר ניגודיות וגוון חם יותר",
+   "paletas.vivo.nome": "צבעוני",
+   "paletas.vivo.descricao": "צבעים חזקים, למי שאוהב צבע",
+   "letraDoTexto": "גופן הטקסט",
+   "fontes.sistema.nome": "הגופן של הטלפון",
+   "fontes.frankRuhl.descricao": "הגופן הקלאסי של ספרים עבריים",
+   "fontes.david.descricao": "פתוח יותר, טוב לעיניים עייפות",
+   "fontes.heebo.descricao": "בלי עיטורים, מותאם למסך",
+   "escritaRashi": "כתב רש\"י",
+   "rashiOpcoes.nenhum": "ללא",
+   "rashiOpcoes.tudoMenosSa": "בפירושים",
+   "rashiNota": "כתב רש\"י משמש רק בפירושים. השולחן ערוך נשאר תמיד בכתב מרובע, כמו בספר המודפס. בהעתקה הטקסט יוצא תמיד בכתב רגיל.",
+   "telaInicial": "המשך מהמקום שעצרתי",
+   "mostrarContinuar": "הצג במסך הראשון",
+   "mostrarContinuarNota": "הכרטיס של המקום האחרון שקראת ושני המקומות שלפניו, בראש המסך הראשון.",
+   "leituraSecao": "קריאה",
+   "telaAcesa": "השאר את המסך דולק",
+   "telaAcesaNota": "בזמן קריאת סעיף או נספח. אם אף אחד לא נוגע במסך 10 דקות, הוא כבה כרגיל.",
+   "idiomaDoApp": "שפה",
+   "idiomaNota": "הטקסט המקורי נשאר בעברית בכל שפה. משתנים רק התפריטים והכפתורים.",
+   "citacao": "העתקה",
+   "citacaoNota": "חל על כפתור ההעתקה וגם על קטע שאתה מסמן באצבע. כשהאפליקציה מוסיפה מראה מקום לקטע מסומן, היא מודיעה על כך במסך. אם האפליקציה אינה בטוחה מאיפה הקטע, היא לא נוגעת בו.",
+   "citacaoReferencia": "מראה מקום",
+   "citacaoReferenciaNota": "השורה עם הסימן והסעיף, מעל הטקסט.",
+   "citacaoMarcadores": "ציוני הפניה בתוך הטקסט",
+   "citacaoMarcadoresNota": "האותיות שבסוגריים עגולים ומרובעים והכוכבית, המפנות לפירושים. הן חלק מהטקסט המקורי; כיבוי כאן משנה רק את הטקסט המועתק.",
+   "citacaoAssinatura": "שם האפליקציה בסוף",
+   "citacaoAssinaturaNota": "מי שיקבל את הקטע יידע מאיפה הוא.",
+   "recomecar": "איפוס",
+   "voltarAoOriginal": "חזרה להגדרות המקוריות",
+   "voltarAoOriginalNota": "הצבעים, השפה, הגופן (סוג וגודל), כתב רש\"י, שלוש אפשרויות ההעתקה ואפשרויות השמע יחזרו למצבם המקורי.",
+   "voltarAoOriginalPergunta": "להחזיר הכול למצב המקורי?",
+   "voltarAoOriginalDetalhe": "המקום שבו עצרת בכל הקלטה יחזור להתחלה. המקום שבו הפסקת לקרוא, המועדפים וההערות שלך לא יאבדו. שום דבר בטקסט המקורי לא משתנה.",
+   "cancelar": "ביטול",
+   "voltarAoOriginalSim": "שחזור",
+   "sobreOApp": "אודות",
+   "aberturaSobre": "על מהדורה זו",
+   "politicaDePrivacidade": "מדיניות פרטיות",
+   "abreNoNavegador": "נפתח בדפדפן",
+   "versaoDaBase": "גרסת הטקסט",
+   "geradoEm": "הוכן ב־",
+   "versaoDoApp": "גרסת האפליקציה",
+   "novidadesTitulo": "מה חדש",
+   "novidadesEntendi": "הבנתי",
+   "novidadesAbrir": "מה חדש",
+   "novidadesVersao": "גרסה",
+   "novIrAoSeif": "מעבר ישיר לסעיף: בשדה הסימן, כתוב את הסימן ואת הסעיף",
+   "novCopiar": "אחרי כפתור ההעתקה: שיתוף, או דיווח על טעות בטקסט",
+   "novTema": "חיפוש בתוך נושא אחד בלבד, בדף הנושא",
+   "novUltimos": "במסך הראשון, המקומות האחרונים שקראת; בהקשה על החיפוש, החיפושים האחרונים",
+   "novAnotarCaixas": "עיפרון ההערות גם בכל תיבה",
+   "novBackup": "שמירה ושחזור של ההערות, המועדפים וההדגשות (הגדרות, גיבוי)",
+   "novTelaAcesa": "המסך לא כבה בזמן הקריאה (הגדרות, קריאה)",
+   "novLink": "הטקסט המועתק כולל קישור: הקשה עליו פותחת את האפליקציה ישר באותו סעיף",
+   "backupSecao": "גיבוי",
+   "backupGuardar": "שמירת גיבוי",
+   "backupGuardarNota": "מועדפים, הערות והדגשות בקובץ אחד. שלחו אותו לעצמכם (וואטסאפ, מייל, דרייב) כדי שדבר לא יאבד בהחלפת טלפון.",
+   "backupGuardarTitulo": "שמירת הגיבוי",
+   "backupRestaurar": "שחזור גיבוי",
+   "backupRestaurarNota": "בחירת הקובץ של גיבוי ששמרתם קודם.",
+   "backupNadaParaGuardar": "עדיין אין מועדפים, הערות או הדגשות לשמור.",
+   "backupFalhou": "לא ניתן היה ליצור את קובץ הגיבוי.",
+   "backupLerEstragado": "לא ניתן היה לקרוא את הקובץ הזה.",
+   "backupLerOutro": "הקובץ הזה אינו גיבוי של האפליקציה הזו.",
+   "backupLerNovo": "הגיבוי הזה נוצר בגרסה חדשה יותר של האפליקציה. עדכנו את האפליקציה דרך חנות האפליקציות ונסו שוב.",
+   "backupLerVazio": "הגיבוי הזה ריק.",
+   "backupComoTitulo": "שחזור הגיבוי",
+   "backupComoTexto": "בטלפון כבר יש מועדפים, הערות או הדגשות.",
+   "backupSomar": "צירוף",
+   "backupSomarNota": "מצרף את הגיבוי למה שכבר בטלפון, בלי כפילויות.",
+   "backupSubstituir": "החלפה",
+   "backupSubstituirNota": "יישאר רק מה שבגיבוי. יימחקו מהטלפון:",
+   "backupRestaurado": "הגיבוי שוחזר",
+   "backupAgoraTem": "עכשיו יש בטלפון:",
+   "backupDescartados": {
+    "args": [
+     "n"
+    ],
+    "um": "פריט אחד בקובץ לא הובן ולא נכלל.",
+    "outro": "{n} פריטים בקובץ לא הובנו ולא נכללו."
+   },
+   "backupNaoCouberam": {
+    "args": [
+     "n"
+    ],
+    "um": "הערה אחת הייתה ארוכה מדי לאחר הצירוף; נשאר הטקסט שבטלפון.",
+    "outro": "{n} הערות היו ארוכות מדי לאחר הצירוף; נשאר הטקסט שבטלפון."
+   },
+   "backupContaAnotacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "הערה אחת",
+    "outro": "{n} הערות"
+   },
+   "backupContaFavoritos": {
+    "args": [
+     "n"
+    ],
+    "um": "מועדף אחד",
+    "outro": "{n} מועדפים"
+   },
+   "backupContaGrifos": {
+    "args": [
+     "n"
+    ],
+    "um": "הדגשה אחת",
+    "outro": "{n} הדגשות"
+   },
+   "audioOuvir": "האזנה להקלטה",
+   "audioRotulos.introducao": "הקדמה",
+   "audioRotulos.finalizacao": "סיום",
+   "audioRotulos.resumo": "סיכום",
+   "audioRotulos.posfacio": "אחרית דבר",
+   "audioTituloSeif": {
+    "args": [
+     "siman",
+     "seif"
+    ],
+    "texto": "סימן {siman} · סעיף {seif}"
+   },
+   "audioTituloSiman": {
+    "args": [
+     "siman"
+    ],
+    "texto": "סימן {siman}"
+   },
+   "audioBaixarSiman": {
+    "args": [
+     "mb"
+    ],
+    "texto": "הורדת הסימן · {mb} MB"
+   },
+   "audioBaixando": {
+    "args": [
+     "k",
+     "n"
+    ],
+    "texto": "מוריד {k} מתוך {n}…"
+   },
+   "audioSimanBaixado": "הסימן הורד",
+   "audioBaixarFalhou": "לא ניתן היה להוריד הכול. יש לבדוק את החיבור לאינטרנט או להמתין מעט, ולהקיש שוב.",
+   "audioCobre": {
+    "args": [
+     "a",
+     "b"
+    ],
+    "texto": "הקלטה זו כוללת את סעיפים {a} ו-{b}"
+   },
+   "audioBaixandoUm": {
+    "args": [
+     "p"
+    ],
+    "texto": "מוריד {p}%"
+   },
+   "audioErroBaixar": "לא ניתן היה להוריד את ההקלטה. יש לבדוק את החיבור לאינטרנט או להמתין מעט, ולהקיש על הפעלה.",
+   "audioErroTocar": "לא ניתן היה להשמיע את ההקלטה. יש להקיש שוב על הפעלה.",
+   "audioTocar": "הפעלה",
+   "audioPausar": "השהיה",
+   "audioRecuar": "אחורה 15 שניות",
+   "audioAdiantar": "קדימה 15 שניות",
+   "audioVelocidade": "מהירות",
+   "audioFechar": "סגירת הנגן",
+   "audioBarra": "מיקום בהקלטה",
+   "audioSecao": "שמע",
+   "audioMostrarFone": "הצגת כפתור ההאזנה (🎧)",
+   "audioMostrarFoneNota": "ההקלטות הן בפורטוגזית.",
+   "audioEspacoUsado": "נפח בשימוש",
+   "contaGravacoes": {
+    "args": [
+     "n"
+    ],
+    "um": "הקלטה אחת",
+    "outro": "{n} הקלטות"
+   },
+   "audioLimite": "מגבלת נפח",
+   "audioSemLimite": "ללא מגבלה",
+   "audioLimiteNota": "כשעוברים את המגבלה, נמחקות ההקלטות שהושמעו לפני הכי הרבה זמן.",
+   "audioApagar": "מחיקת ההקלטות שהורדו",
+   "audioApagarPergunta": "למחוק את ההקלטות שהורדו?",
+   "audioApagarDetalhe": "ההקלטות יימחקו מהמכשיר ויורדו שוב כשתפעילו אותן. המקום שבו הפסקתם יישמר.",
+   "audioApagarSim": "מחיקה",
+   "versaoNovaTitulo": "יש גרסה חדשה של האפליקציה",
+   "versaoNovaDetalhe": "עדכנו דרך חנות האפליקציות כדי לקבל את החידושים והתיקונים.",
+   "versaoNovaAtualizar": "עדכון",
+   "versaoNovaAgoraNao": "לא עכשיו",
+   "separadorDecimal": "."
+  }
+ }
+}

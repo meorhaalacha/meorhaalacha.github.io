@@ -1,28 +1,3 @@
 {
- "dedicacoes": [
-  {
-   "tipo": "hatzlacha",
-   "nome": "הרב אדמון קצב הי''ו",
-   "inicio": null,
-   "fim": null,
-   "escopo": "app",
-   "alvo": null
-  },
-  {
-   "tipo": "refua",
-   "nome": "אברהם בן יצחק בתוך שאר חולי עמו ישראל",
-   "inicio": null,
-   "fim": null,
-   "escopo": "tema",
-   "alvo": "שבת"
-  },
-  {
-   "tipo": "leiluiNishmat",
-   "nome": "יעקב בן אברהם ז''ל רחל בת רבקה ז''ל תנצב''ה",
-   "inicio": null,
-   "fim": null,
-   "escopo": "siman",
-   "alvo": 689
-  }
- ]
+ "dedicacoes": []
 }
